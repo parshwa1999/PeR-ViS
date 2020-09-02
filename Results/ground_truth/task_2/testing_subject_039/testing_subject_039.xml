@@ -1,0 +1,151 @@
+<QUTSoftBioSearchSubject init-frames="30" total-frames="100" annot-frames="70" camera="4" >
+
+	<!-- -1=Unknown 0=<20 1=15-35 2=25-45 3=35-55 4=>50 -->
+	<Age>1</Age>
+
+	<!-- -1=Unknown 0=Male 1=Female -->
+	<Gender>0</Gender>
+
+	<!-- -1=Unknown 0=Very Short 1=Short 2=Average 3=Tall 4=Very Tall -->
+	<Height>1</Height>
+
+	<!-- -1=Unknown 0=Very Slim 1=Slim 2=Average 3=Large 4=Very Large -->
+	<Build>2</Build>
+
+	<!-- -1=Unknown 0=Light 1=Medium 2=Dark -->
+	<Skin>1</Skin>
+
+	<!-- -1=Unknown 0=Blonde 1=Brown 2=Dark 3=Red 4=Grey 5=Other -->
+	<Hair>2</Hair>
+
+	<!-- Colour code: -1=Unknown 0=black, 1=blue, 2=brown, 3=green, 4=grey, 5=orange, 6=pink, 7=purple, 8=red, 9=white, 10=yellow 11=skin-->
+	<Torso-Color>2</Torso-Color>
+
+	<!-- Colour code: -1=Unknown 0=black, 1=blue, 2=brown, 3=green, 4=grey, 5=orange, 6=pink, 7=purple, 8=red, 9=white, 10=yellow 11=skin-->
+	<Torso-SecondColor>-1</Torso-SecondColor>
+
+	<!-- -1=Unknown 0=Long Sleeve 1=Short Sleeve 2=No Sleeve -->
+	<Torso-Type>1</Torso-Type>
+
+	<!-- -1=Unknown 0=Plain 1=Check 2=Diagonal Stripe 3=Vertical Stripe 4=Horizontal Stripe 5=Spots 6=Picture-->
+	<Torso-Pattern>0</Torso-Pattern>
+
+	<!-- Colour code: -1=Unknown 0=black, 1=blue, 2=brown, 3=green, 4=grey, 5=orange, 6=pink, 7=purple, 8=red, 9=white, 10=yellow 11=skin-->
+	<Leg-Color>1</Leg-Color>
+
+	<!-- Colour code: -1=Unknown 0=black, 1=blue, 2=brown, 3=green, 4=grey, 5=orange, 6=pink, 7=purple, 8=red, 9=white, 10=yellow 11=skin-->
+	<Leg-SecondColor>-1</Leg-SecondColor>
+
+	<!-- -1=Unknown 0=Long Pants 1=Dress 2=Skirt 3=Long Shorts 4=Short Shorts -->
+	<Leg-Type>0</Leg-Type>
+
+	<!-- -1=Unknown 0=Plain 1=Check 2=Diagonal Stripe 3=Vertical Stripe 4=Horizontal Stripe 5=Spots 6=Picture-->
+	<Leg-Pattern>0</Leg-Pattern>
+
+	<!-- Colour code: -1=Unknown 0=black, 1=blue, 2=brown, 3=green, 4=grey, 5=orange, 6=pink, 7=purple, 8=red, 9=white, 10=yellow 11=skin-->
+	<Shoe-Color>0</Shoe-Color>
+
+	<!-- Luggage code: -1=Unknown 0=Yes 1=No -->
+	<Luggage>1</Luggage>
+
+	<fhs filename="testing_subject_039_im_0000.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0001.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0002.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0003.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0004.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0005.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0006.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0007.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0008.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0009.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0010.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0011.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0012.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0013.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0014.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0015.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0016.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0017.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0018.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0019.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0020.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0021.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0022.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0023.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0024.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0025.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0026.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0027.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0028.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0029.png" gt="false" hx="-1" hy="-1" rfx="-1" rfy="-1" lfx="-1" lfy="-1" rsx="-1" rsy="-1" lsx="-1" lsy="-1" rnx="-1" rny="-1" lnx="-1" lny="-1" rwx="-1" rwy="-1" lwx="-1" lwy="-1" />
+	<fhs filename="testing_subject_039_im_0030.png" gt="true" hx="277" hy="58" rfx="266" rfy="190" lfx="308" lfy="204" rsx="260" rsy="90" lsx="286" lsy="78" rnx="272" rny="76" lnx="281" lny="79" rwx="259" rwy="134" lwx="290" lwy="127" />
+	<fhs filename="testing_subject_039_im_0031.png" gt="true" hx="278" hy="56" rfx="266" rfy="192" lfx="305" lfy="202" rsx="265" rsy="88" lsx="289" lsy="78" rnx="274" rny="78" lnx="284" lny="80" rwx="259" rwy="133" lwx="293" lwy="132" />
+	<fhs filename="testing_subject_039_im_0032.png" gt="true" hx="284" hy="60" rfx="268" rfy="192" lfx="310" lfy="202" rsx="268" rsy="86" lsx="292" lsy="82" rnx="278" rny="79" lnx="287" lny="82" rwx="265" rwy="138" lwx="298" lwy="132" />
+	<fhs filename="testing_subject_039_im_0033.png" gt="true" hx="286" hy="61" rfx="272" rfy="188" lfx="307" lfy="202" rsx="269" rsy="92" lsx="295" lsy="84" rnx="281" rny="80" lnx="292" lny="82" rwx="269" rwy="140" lwx="301" lwy="133" />
+	<fhs filename="testing_subject_039_im_0034.png" gt="true" hx="292" hy="58" rfx="277" rfy="190" lfx="308" lfy="204" rsx="272" rsy="92" lsx="298" lsy="82" rnx="283" rny="80" lnx="293" lny="85" rwx="274" rwy="138" lwx="304" lwy="130" />
+	<fhs filename="testing_subject_039_im_0035.png" gt="true" hx="293" hy="56" rfx="269" rfy="187" lfx="313" lfy="205" rsx="274" rsy="92" lsx="301" lsy="84" rnx="284" rny="82" lnx="298" lny="84" rwx="277" rwy="142" lwx="307" lwy="133" />
+	<fhs filename="testing_subject_039_im_0036.png" gt="true" hx="295" hy="56" rfx="271" rfy="187" lfx="307" lfy="204" rsx="275" rsy="96" lsx="304" lsy="84" rnx="287" rny="82" lnx="298" lny="84" rwx="278" rwy="142" lwx="308" lwy="133" />
+	<fhs filename="testing_subject_039_im_0037.png" gt="true" hx="298" hy="61" rfx="280" rfy="190" lfx="311" lfy="204" rsx="278" rsy="97" lsx="305" lsy="86" rnx="289" rny="84" lnx="301" lny="86" rwx="283" rwy="144" lwx="310" lwy="134" />
+	<fhs filename="testing_subject_039_im_0038.png" gt="true" hx="296" hy="61" rfx="292" rfy="204" lfx="311" lfy="204" rsx="281" rsy="94" lsx="308" lsy="86" rnx="292" rny="84" lnx="304" lny="88" rwx="284" rwy="144" lwx="311" lwy="133" />
+	<fhs filename="testing_subject_039_im_0039.png" gt="true" hx="299" hy="62" rfx="308" rfy="202" lfx="310" lfy="202" rsx="281" rsy="96" lsx="308" lsy="86" rnx="295" rny="85" lnx="305" lny="90" rwx="286" rwy="144" lwx="313" lwy="136" />
+	<fhs filename="testing_subject_039_im_0040.png" gt="true" hx="304" hy="64" rfx="308" rfy="205" lfx="299" lfy="199" rsx="284" rsy="96" lsx="313" lsy="86" rnx="296" rny="88" lnx="307" lny="91" rwx="290" rwy="146" lwx="314" lwy="138" />
+	<fhs filename="testing_subject_039_im_0041.png" gt="true" hx="307" hy="64" rfx="311" rfy="216" lfx="304" lfy="204" rsx="287" rsy="98" lsx="314" lsy="88" rnx="298" rny="86" lnx="310" lny="90" rwx="292" rwy="148" lwx="319" lwy="139" />
+	<fhs filename="testing_subject_039_im_0042.png" gt="true" hx="308" hy="66" rfx="308" rfy="212" lfx="305" lfy="205" rsx="290" rsy="102" lsx="317" lsy="85" rnx="301" rny="88" lnx="313" lny="90" rwx="295" rwy="151" lwx="319" lwy="140" />
+	<fhs filename="testing_subject_039_im_0043.png" gt="true" hx="307" hy="68" rfx="319" rfy="211" lfx="304" lfy="204" rsx="290" rsy="102" lsx="319" lsy="86" rnx="302" rny="91" lnx="314" lny="91" rwx="296" rwy="151" lwx="323" lwy="142" />
+	<fhs filename="testing_subject_039_im_0044.png" gt="true" hx="311" hy="70" rfx="332" rfy="228" lfx="305" lfy="205" rsx="293" rsy="103" lsx="322" lsy="92" rnx="305" rny="91" lnx="317" lny="96" rwx="298" rwy="154" lwx="325" lwy="142" />
+	<fhs filename="testing_subject_039_im_0045.png" gt="true" hx="313" hy="70" rfx="343" rfy="232" lfx="308" lfy="206" rsx="298" rsy="106" lsx="325" lsy="92" rnx="308" rny="91" lnx="320" lny="96" rwx="301" rwy="154" lwx="326" lwy="146" />
+	<fhs filename="testing_subject_039_im_0046.png" gt="true" hx="316" hy="72" rfx="346" rfy="232" lfx="308" lfy="205" rsx="301" rsy="110" lsx="326" lsy="96" rnx="310" rny="91" lnx="322" lny="97" rwx="304" rwy="156" lwx="329" lwy="148" />
+	<fhs filename="testing_subject_039_im_0047.png" gt="true" hx="322" hy="73" rfx="346" rfy="228" lfx="308" lfy="205" rsx="301" rsy="110" lsx="332" lsy="96" rnx="313" rny="94" lnx="322" lny="98" rwx="304" rwy="158" lwx="331" lwy="151" />
+	<fhs filename="testing_subject_039_im_0048.png" gt="true" hx="323" hy="76" rfx="350" rfy="230" lfx="305" lfy="206" rsx="305" rsy="109" lsx="-1" lsy="-1" rnx="314" rny="96" lnx="325" lny="103" rwx="307" rwy="157" lwx="332" lwy="152" />
+	<fhs filename="testing_subject_039_im_0049.png" gt="true" hx="326" hy="76" rfx="352" rfy="229" lfx="311" lfy="205" rsx="307" rsy="110" lsx="-1" lsy="-1" rnx="317" rny="97" lnx="328" lny="106" rwx="310" rwy="162" lwx="337" lwy="154" />
+	<fhs filename="testing_subject_039_im_0050.png" gt="true" hx="326" hy="79" rfx="352" rfy="234" lfx="-1" lfy="-1" rsx="310" rsy="116" lsx="-1" lsy="-1" rnx="322" rny="100" lnx="332" lny="106" rwx="311" rwy="162" lwx="340" lwy="154" />
+	<fhs filename="testing_subject_039_im_0051.png" gt="true" hx="331" hy="80" rfx="352" rfy="234" lfx="-1" lfy="-1" rsx="313" rsy="118" lsx="-1" lsy="-1" rnx="323" rny="103" lnx="335" lny="106" rwx="313" rwy="164" lwx="343" lwy="160" />
+	<fhs filename="testing_subject_039_im_0052.png" gt="true" hx="331" hy="80" rfx="353" rfy="234" lfx="-1" lfy="-1" rsx="314" rsy="115" lsx="-1" lsy="-1" rnx="325" rny="103" lnx="335" lny="109" rwx="316" rwy="166" lwx="344" lwy="160" />
+	<fhs filename="testing_subject_039_im_0053.png" gt="true" hx="332" hy="80" rfx="352" rfy="234" lfx="-1" lfy="-1" rsx="317" rsy="116" lsx="-1" lsy="-1" rnx="328" rny="103" lnx="337" lny="108" rwx="317" rwy="166" lwx="346" lwy="163" />
+	<fhs filename="testing_subject_039_im_0054.png" gt="true" hx="337" hy="82" rfx="350" rfy="235" lfx="-1" lfy="-1" rsx="320" rsy="118" lsx="-1" lsy="-1" rnx="332" rny="104" lnx="343" lny="110" rwx="319" rwy="166" lwx="349" lwy="158" />
+	<fhs filename="testing_subject_039_im_0055.png" gt="true" hx="338" hy="82" rfx="350" rfy="234" lfx="-1" lfy="-1" rsx="323" rsy="121" lsx="-1" lsy="-1" rnx="332" rny="106" lnx="343" lny="112" rwx="323" rwy="169" lwx="352" lwy="163" />
+	<fhs filename="testing_subject_039_im_0056.png" gt="true" hx="341" hy="85" rfx="347" rfy="234" lfx="-1" lfy="-1" rsx="326" rsy="122" lsx="-1" lsy="-1" rnx="337" rny="108" lnx="347" lny="112" rwx="325" rwy="170" lwx="355" lwy="163" />
+	<fhs filename="testing_subject_039_im_0057.png" gt="true" hx="344" hy="85" rfx="350" rfy="234" lfx="-1" lfy="-1" rsx="326" rsy="121" lsx="-1" lsy="-1" rnx="340" rny="108" lnx="347" lny="114" rwx="329" rwy="172" lwx="358" lwy="163" />
+	<fhs filename="testing_subject_039_im_0058.png" gt="true" hx="349" hy="86" rfx="350" rfy="234" lfx="-1" lfy="-1" rsx="329" rsy="121" lsx="-1" lsy="-1" rnx="341" rny="108" lnx="350" lny="115" rwx="328" rwy="169" lwx="361" lwy="163" />
+	<fhs filename="testing_subject_039_im_0059.png" gt="true" hx="350" hy="88" rfx="349" rfy="234" lfx="-1" lfy="-1" rsx="334" rsy="126" lsx="-1" lsy="-1" rnx="341" rny="110" lnx="355" lny="115" rwx="331" rwy="174" lwx="364" lwy="163" />
+	<fhs filename="testing_subject_039_im_0060.png" gt="true" hx="352" hy="88" rfx="347" rfy="230" lfx="359" lfy="224" rsx="335" rsy="124" lsx="-1" lsy="-1" rnx="346" rny="109" lnx="352" lny="116" rwx="331" rwy="172" lwx="365" lwy="162" />
+	<fhs filename="testing_subject_039_im_0061.png" gt="true" hx="353" hy="90" rfx="352" rfy="235" lfx="364" lfy="232" rsx="337" rsy="128" lsx="-1" lsy="-1" rnx="347" rny="109" lnx="358" lny="118" rwx="334" rwy="170" lwx="367" lwy="162" />
+	<fhs filename="testing_subject_039_im_0062.png" gt="true" hx="356" hy="90" rfx="350" rfy="232" lfx="376" lfy="236" rsx="340" rsy="130" lsx="-1" lsy="-1" rnx="350" rny="114" lnx="361" lny="120" rwx="335" rwy="172" lwx="370" lwy="166" />
+	<fhs filename="testing_subject_039_im_0063.png" gt="true" hx="359" hy="92" rfx="347" rfy="230" lfx="385" lfy="244" rsx="340" rsy="132" lsx="-1" lsy="-1" rnx="353" rny="115" lnx="361" lny="122" rwx="337" rwy="174" lwx="370" lwy="169" />
+	<fhs filename="testing_subject_039_im_0064.png" gt="true" hx="367" hy="94" rfx="349" rfy="232" lfx="386" lfy="244" rsx="344" rsy="132" lsx="-1" lsy="-1" rnx="355" rny="115" lnx="364" lny="122" rwx="338" rwy="175" lwx="373" lwy="168" />
+	<fhs filename="testing_subject_039_im_0065.png" gt="true" hx="365" hy="97" rfx="346" rfy="235" lfx="391" lfy="247" rsx="346" rsy="133" lsx="-1" lsy="-1" rnx="358" rny="120" lnx="367" lny="126" rwx="340" rwy="175" lwx="376" lwy="174" />
+	<fhs filename="testing_subject_039_im_0066.png" gt="true" hx="370" hy="98" rfx="353" rfy="235" lfx="394" lfy="246" rsx="350" rsy="133" lsx="-1" lsy="-1" rnx="361" rny="121" lnx="371" lny="128" rwx="343" rwy="178" lwx="380" lwy="176" />
+	<fhs filename="testing_subject_039_im_0067.png" gt="true" hx="373" hy="100" rfx="350" rfy="234" lfx="392" lfy="247" rsx="353" rsy="136" lsx="-1" lsy="-1" rnx="364" rny="122" lnx="374" lny="130" rwx="344" rwy="180" lwx="383" lwy="176" />
+	<fhs filename="testing_subject_039_im_0068.png" gt="true" hx="377" hy="102" rfx="350" rfy="236" lfx="394" lfy="253" rsx="358" rsy="140" lsx="-1" lsy="-1" rnx="367" rny="122" lnx="376" lny="132" rwx="349" rwy="182" lwx="385" lwy="182" />
+	<fhs filename="testing_subject_039_im_0069.png" gt="true" hx="383" hy="104" rfx="-1" rfy="-1" lfx="394" lfy="254" rsx="367" rsy="139" lsx="-1" lsy="-1" rnx="373" rny="127" lnx="385" lny="134" rwx="358" rwy="186" lwx="392" lwy="182" />
+	<fhs filename="testing_subject_039_im_0070.png" gt="true" hx="388" hy="106" rfx="-1" rfy="-1" lfx="397" lfy="258" rsx="368" rsy="140" lsx="-1" lsy="-1" rnx="377" rny="128" lnx="389" lny="134" rwx="361" rwy="192" lwx="397" lwy="184" />
+	<fhs filename="testing_subject_039_im_0071.png" gt="true" hx="392" hy="108" rfx="-1" rfy="-1" lfx="397" lfy="258" rsx="370" rsy="145" lsx="-1" lsy="-1" rnx="380" rny="130" lnx="391" lny="136" rwx="368" rwy="193" lwx="400" lwy="186" />
+	<fhs filename="testing_subject_039_im_0072.png" gt="true" hx="394" hy="108" rfx="-1" rfy="-1" lfx="398" lfy="260" rsx="374" rsy="145" lsx="-1" lsy="-1" rnx="385" rny="128" lnx="394" lny="138" rwx="368" rwy="194" lwx="401" lwy="190" />
+	<fhs filename="testing_subject_039_im_0073.png" gt="true" hx="397" hy="110" rfx="-1" rfy="-1" lfx="398" lfy="259" rsx="376" rsy="146" lsx="-1" lsy="-1" rnx="388" rny="132" lnx="397" lny="136" rwx="373" rwy="193" lwx="404" lwy="188" />
+	<fhs filename="testing_subject_039_im_0074.png" gt="true" hx="400" hy="112" rfx="368" rfy="246" lfx="401" lfy="260" rsx="377" rsy="148" lsx="-1" lsy="-1" rnx="389" rny="132" lnx="401" lny="139" rwx="374" rwy="196" lwx="406" lwy="187" />
+	<fhs filename="testing_subject_039_im_0075.png" gt="true" hx="403" hy="114" rfx="376" rfy="248" lfx="403" lfy="260" rsx="382" rsy="145" lsx="-1" lsy="-1" rnx="391" rny="133" lnx="403" lny="140" rwx="379" rwy="199" lwx="409" lwy="188" />
+	<fhs filename="testing_subject_039_im_0076.png" gt="true" hx="404" hy="115" rfx="386" rfy="253" lfx="401" lfy="264" rsx="383" rsy="151" lsx="-1" lsy="-1" rnx="395" rny="134" lnx="406" lny="142" rwx="380" rwy="199" lwx="412" lwy="190" />
+	<fhs filename="testing_subject_039_im_0077.png" gt="true" hx="410" hy="114" rfx="400" rfy="262" lfx="389" lfy="262" rsx="388" rsy="150" lsx="-1" lsy="-1" rnx="397" rny="136" lnx="407" lny="142" rwx="382" rwy="199" lwx="412" lwy="192" />
+	<fhs filename="testing_subject_039_im_0078.png" gt="true" hx="410" hy="115" rfx="403" rfy="272" lfx="392" lfy="260" rsx="386" rsy="150" lsx="-1" lsy="-1" rnx="400" rny="138" lnx="412" lny="145" rwx="386" rwy="200" lwx="415" lwy="193" />
+	<fhs filename="testing_subject_039_im_0079.png" gt="true" hx="409" hy="118" rfx="412" rfy="283" lfx="394" lfy="259" rsx="391" rsy="157" lsx="-1" lsy="-1" rnx="403" rny="140" lnx="413" lny="146" rwx="389" rwy="205" lwx="416" lwy="196" />
+	<fhs filename="testing_subject_039_im_0080.png" gt="true" hx="418" hy="120" rfx="418" rfy="284" lfx="400" lfy="262" rsx="394" rsy="154" lsx="-1" lsy="-1" rnx="406" rny="144" lnx="416" lny="146" rwx="391" rwy="208" lwx="419" lwy="199" />
+	<fhs filename="testing_subject_039_im_0081.png" gt="true" hx="422" hy="126" rfx="428" rfy="286" lfx="392" lfy="264" rsx="398" rsy="160" lsx="-1" lsy="-1" rnx="409" rny="146" lnx="419" lny="151" rwx="394" rwy="211" lwx="422" lwy="204" />
+	<fhs filename="testing_subject_039_im_0082.png" gt="true" hx="425" hy="122" rfx="433" rfy="289" lfx="400" lfy="259" rsx="403" rsy="162" lsx="-1" lsy="-1" rnx="412" rny="148" lnx="421" lny="154" rwx="398" rwy="216" lwx="425" lwy="206" />
+	<fhs filename="testing_subject_039_im_0083.png" gt="true" hx="422" hy="128" rfx="434" rfy="288" lfx="397" lfy="262" rsx="406" rsy="168" lsx="-1" lsy="-1" rnx="415" rny="148" lnx="424" lny="156" rwx="398" rwy="214" lwx="427" lwy="210" />
+	<fhs filename="testing_subject_039_im_0084.png" gt="true" hx="428" hy="130" rfx="437" rfy="292" lfx="403" lfy="265" rsx="407" rsy="166" lsx="-1" lsy="-1" rnx="418" rny="151" lnx="427" lny="157" rwx="404" rwy="218" lwx="431" lwy="211" />
+	<fhs filename="testing_subject_039_im_0085.png" gt="true" hx="430" hy="133" rfx="440" rfy="292" lfx="398" lfy="259" rsx="410" rsy="169" lsx="-1" lsy="-1" rnx="421" rny="154" lnx="431" lny="160" rwx="406" rwy="218" lwx="434" lwy="212" />
+	<fhs filename="testing_subject_039_im_0086.png" gt="true" hx="431" hy="133" rfx="440" rfy="295" lfx="400" lfy="260" rsx="409" rsy="170" lsx="-1" lsy="-1" rnx="419" rny="151" lnx="431" lny="160" rwx="403" rwy="218" lwx="433" lwy="212" />
+	<fhs filename="testing_subject_039_im_0087.png" gt="true" hx="433" hy="134" rfx="442" rfy="298" lfx="401" lfy="262" rsx="413" rsy="172" lsx="-1" lsy="-1" rnx="424" rny="156" lnx="433" lny="160" rwx="409" rwy="222" lwx="439" lwy="211" />
+	<fhs filename="testing_subject_039_im_0088.png" gt="true" hx="434" hy="138" rfx="440" rfy="298" lfx="-1" lfy="-1" rsx="418" rsy="169" lsx="-1" lsy="-1" rnx="425" rny="157" lnx="437" lny="164" rwx="410" rwy="223" lwx="440" lwy="218" />
+	<fhs filename="testing_subject_039_im_0089.png" gt="true" hx="439" hy="138" rfx="443" rfy="298" lfx="-1" lfy="-1" rsx="421" rsy="174" lsx="-1" lsy="-1" rnx="431" rny="160" lnx="439" lny="164" rwx="415" rwy="224" lwx="445" lwy="214" />
+	<fhs filename="testing_subject_039_im_0090.png" gt="true" hx="440" hy="138" rfx="440" rfy="300" lfx="-1" lfy="-1" rsx="422" rsy="178" lsx="-1" lsy="-1" rnx="433" rny="158" lnx="443" lny="166" rwx="416" rwy="224" lwx="446" lwy="220" />
+	<fhs filename="testing_subject_039_im_0091.png" gt="true" hx="446" hy="140" rfx="442" rfy="300" lfx="-1" lfy="-1" rsx="428" rsy="178" lsx="-1" lsy="-1" rnx="437" rny="162" lnx="446" lny="168" rwx="419" rwy="228" lwx="451" lwy="223" />
+	<fhs filename="testing_subject_039_im_0092.png" gt="true" hx="449" hy="140" rfx="443" rfy="300" lfx="-1" lfy="-1" rsx="433" rsy="176" lsx="-1" lsy="-1" rnx="440" rny="162" lnx="448" lny="166" rwx="424" rwy="228" lwx="454" lwy="220" />
+	<fhs filename="testing_subject_039_im_0093.png" gt="true" hx="451" hy="142" rfx="443" rfy="300" lfx="-1" lfy="-1" rsx="434" rsy="180" lsx="-1" lsy="-1" rnx="442" rny="163" lnx="452" lny="169" rwx="421" rwy="224" lwx="455" lwy="224" />
+	<fhs filename="testing_subject_039_im_0094.png" gt="true" hx="455" hy="142" rfx="442" rfy="300" lfx="-1" lfy="-1" rsx="436" rsy="180" lsx="-1" lsy="-1" rnx="443" rny="163" lnx="454" lny="169" rwx="424" rwy="226" lwx="458" lwy="228" />
+	<fhs filename="testing_subject_039_im_0095.png" gt="true" hx="455" hy="145" rfx="443" rfy="298" lfx="445" lfy="286" rsx="440" rsy="184" lsx="-1" lsy="-1" rnx="446" rny="164" lnx="454" lny="172" rwx="427" rwy="230" lwx="463" lwy="228" />
+	<fhs filename="testing_subject_039_im_0096.png" gt="true" hx="458" hy="145" rfx="443" rfy="296" lfx="454" lfy="290" rsx="443" rsy="182" lsx="-1" lsy="-1" rnx="451" rny="168" lnx="458" lny="174" rwx="430" rwy="232" lwx="463" lwy="229" />
+	<fhs filename="testing_subject_039_im_0097.png" gt="true" hx="463" hy="150" rfx="440" rfy="292" lfx="467" lfy="298" rsx="445" rsy="184" lsx="-1" lsy="-1" rnx="452" rny="166" lnx="463" lny="176" rwx="430" rwy="232" lwx="467" lwy="229" />
+	<fhs filename="testing_subject_039_im_0098.png" gt="true" hx="463" hy="151" rfx="442" rfy="298" lfx="476" lfy="302" rsx="448" rsy="186" lsx="-1" lsy="-1" rnx="457" rny="170" lnx="466" lny="178" rwx="433" rwy="230" lwx="470" lwy="230" />
+	<fhs filename="testing_subject_039_im_0099.png" gt="true" hx="472" hy="152" rfx="440" rfy="296" lfx="485" lfy="306" rsx="452" rsy="188" lsx="-1" lsy="-1" rnx="458" rny="172" lnx="470" lny="181" rwx="434" rwy="232" lwx="472" lwy="232" />
+</QUTSoftBioSearchSubject>

@@ -1,0 +1,1 @@
+python3 semantic_search_eval.py --t2_database_path ground_truth/task_2 --t2_database_main_file ground_truth/task_2/QUTSoftBioSearch.xml --t2_results_path results/ --t2_output_path OUT/ --mode 2 --t2_num_sequences 4

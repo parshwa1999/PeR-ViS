@@ -1,0 +1,2 @@
+average_IoU,percentage_above_thresh,observations
+0.3108137084738806,0.3532608695652174,184

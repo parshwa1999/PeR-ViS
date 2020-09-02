@@ -1,0 +1,46 @@
+<QUTSoftBioSearchDB>
+
+	<!-- folder name and name of the corrosponding xml -->
+	<Subject dir="testing_subject_000" xml="testing_subject_000.xml" />
+	<Subject dir="testing_subject_001" xml="testing_subject_001.xml" />
+	<Subject dir="testing_subject_002" xml="testing_subject_002.xml" />
+	<Subject dir="testing_subject_003" xml="testing_subject_003.xml" />
+	<Subject dir="testing_subject_004" xml="testing_subject_004.xml" />
+	<Subject dir="testing_subject_005" xml="testing_subject_005.xml" />
+	<Subject dir="testing_subject_006" xml="testing_subject_006.xml" />
+	<Subject dir="testing_subject_007" xml="testing_subject_007.xml" />
+	<Subject dir="testing_subject_008" xml="testing_subject_008.xml" />
+	<Subject dir="testing_subject_009" xml="testing_subject_009.xml" />
+	<Subject dir="testing_subject_010" xml="testing_subject_010.xml" />
+	<Subject dir="testing_subject_011" xml="testing_subject_011.xml" />
+	<Subject dir="testing_subject_012" xml="testing_subject_012.xml" />
+	<Subject dir="testing_subject_013" xml="testing_subject_013.xml" />
+	<Subject dir="testing_subject_014" xml="testing_subject_014.xml" />
+	<Subject dir="testing_subject_015" xml="testing_subject_015.xml" />
+	<Subject dir="testing_subject_016" xml="testing_subject_016.xml" />
+	<Subject dir="testing_subject_017" xml="testing_subject_017.xml" />
+	<Subject dir="testing_subject_018" xml="testing_subject_018.xml" />
+	<Subject dir="testing_subject_019" xml="testing_subject_019.xml" />
+	<Subject dir="testing_subject_020" xml="testing_subject_020.xml" />
+	<Subject dir="testing_subject_021" xml="testing_subject_021.xml" />
+	<Subject dir="testing_subject_022" xml="testing_subject_022.xml" />
+	<Subject dir="testing_subject_023" xml="testing_subject_023.xml" />
+	<Subject dir="testing_subject_024" xml="testing_subject_024.xml" />
+	<Subject dir="testing_subject_025" xml="testing_subject_025.xml" />
+	<Subject dir="testing_subject_026" xml="testing_subject_026.xml" />
+	<Subject dir="testing_subject_027" xml="testing_subject_027.xml" />
+	<Subject dir="testing_subject_028" xml="testing_subject_028.xml" />
+	<Subject dir="testing_subject_029" xml="testing_subject_029.xml" />
+	<Subject dir="testing_subject_030" xml="testing_subject_030.xml" />
+	<Subject dir="testing_subject_031" xml="testing_subject_031.xml" />
+	<Subject dir="testing_subject_032" xml="testing_subject_032.xml" />
+	<Subject dir="testing_subject_033" xml="testing_subject_033.xml" />
+	<Subject dir="testing_subject_034" xml="testing_subject_034.xml" />
+	<Subject dir="testing_subject_035" xml="testing_subject_035.xml" />
+	<Subject dir="testing_subject_036" xml="testing_subject_036.xml" />
+	<Subject dir="testing_subject_037" xml="testing_subject_037.xml" />
+	<Subject dir="testing_subject_038" xml="testing_subject_038.xml" />
+	<Subject dir="testing_subject_039" xml="testing_subject_039.xml" />
+	<Subject dir="testing_subject_040" xml="testing_subject_040.xml" />
+
+</QUTSoftBioSearchDB>

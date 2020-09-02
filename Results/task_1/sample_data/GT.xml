@@ -1,0 +1,25 @@
+<People_Annotation dir="">
+
+    <!-- breakdown of annotation -->
+    <!--    gender = -1 (unknown), 0 (male), 1 (female) 
+            pose = -1 (unknown), 0 (front), 1 (back), 2 (45 degrees), 3 (90 degrees)
+            tortyp = -1 (unknown), 0 (long), 1 (short)
+            torcol = -1 (unknown), 0 (black), 1 (blue), 2 (brown), 3 (green), 4 (grey), 5 (orange), 6 (pink), 7 (purple), 8 (red), 9 (white), 10 (yellow)
+            tortex = -1 (unknown) , 0 (irregular), 1 (plaid), 2 (diagonal plaid), 3 (plain), 4 (spots), 5 (diagonal stripes), 6 (horizontal stripes), 7 (vertical stripes)
+            legtyp = -1 (unknown), 0 (long), 1 (short)
+            legcol = -1 (unknown), 0 (black), 1 (brown), 2 (blue), 3 (green), 4 (grey), 5 (orange), 6 (pink), 7 (purple), 8 (red), 9 (white), 10 (yellow)
+            legtex = -1 (unknown) , 0 (irregular), 1 (plaid), 2 (diagonal plaid), 3 (plain), 4 (spots), 5 (diagonal stripes), 6 (horizontal stripes), 7 (vertical stripes)
+            luggage = -1 (unknown), 0 (yes), 1 (no)
+            -->
+
+    <Person filename="A_0001_01_001.png" gender="0" pose="3" tortyp="1" torcol="3" torcol2="-1" torcol3="-1" tortex="3" legtyp="1" legcol="4" legcol2="-1" legcol3="-1" legtex="3" luggage="0" />
+    <Person filename="A_0001_01_083.png" gender="0" pose="1" tortyp="1" torcol="3" torcol2="-1" torcol3="-1" tortex="3" legtyp="1" legcol="4" legcol2="-1" legcol3="-1" legtex="3" luggage="0" />
+    <Person filename="A_0001_03_126.png" gender="0" pose="0" tortyp="1" torcol="3" torcol2="-1" torcol3="-1" tortex="0" legtyp="1" legcol="4" legcol2="-1" legcol3="-1" legtex="3" luggage="0" />
+    <Person filename="A_0001_05_051.png" gender="1" pose="3" tortyp="1" torcol="9" torcol2="-1" torcol3="-1" tortex="3" legtyp="0" legcol="0" legcol2="-1" legcol3="-1" legtex="3" luggage="1" />
+    <Person filename="A_0002_01_021.png" gender="1" pose="1" tortyp="1" torcol="4" torcol2="0" torcol3="-1" tortex="0" legtyp="0" legcol="0" legcol2="-1" legcol3="-1" legtex="3" luggage="0" />
+    <Person filename="A_0002_04_011.png" gender="1" pose="3" tortyp="1" torcol="0" torcol2="-1" torcol3="-1" tortex="0" legtyp="0" legcol="0" legcol2="-1" legcol3="-1" legtex="3" luggage="0" />
+    <Person filename="A_0002_08_051.png" gender="1" pose="0" tortyp="1" torcol="4" torcol2="0" torcol3="-1" tortex="0" legtyp="0" legcol="1" legcol2="-1" legcol3="-1" legtex="3" luggage="0" />
+    <Person filename="A_0003_03_131.png" gender="0" pose="0" tortyp="1" torcol="0" torcol2="-1" torcol3="-1" tortex="3" legtyp="0" legcol="2" legcol2="-1" legcol3="-1" legtex="3" luggage="1" />
+    <Person filename="A_0003_04_026.png" gender="0" pose="2" tortyp="1" torcol="9" torcol2="-1" torcol3="-1" tortex="3" legtyp="1" legcol="4" legcol2="-1" legcol3="-1" legtex="3" luggage="0" />
+    <Person filename="A_0003_08_091.png" gender="0" pose="0" tortyp="1" torcol="9" torcol2="-1" torcol3="-1" tortex="3" legtyp="1" legcol="4" legcol2="-1" legcol3="-1" legtex="3" luggage="0" />
+</People_Annotation>
