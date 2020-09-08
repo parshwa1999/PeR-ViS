@@ -1,0 +1,2 @@
+frame,left,top,right,bottom
+-1,-1,-1,-1
