@@ -1,4 +1,5 @@
-# Person-Retrieval-AVSS-2018
+# PeR-ViS: Person Retrieval in Video Surveillance using Semantic Description IEEE/CVF WACVw 2021  
+
 Implementation of our [IEEE WACVw 2021](http://wacv2021.thecvf.com/) paper ["PeR-ViS: Person Retrieval in Video Surveillance using Semantic Description"](https://openaccess.thecvf.com/content/WACV2021W/HADCV/html/Shah_PeR-ViS_Person_Retrieval_in_Video_Surveillance_Using_Semantic_Description_WACVW_2021_paper.html). If you find this code useful in your research, please consider citing:  
 
 ```@InProceedings{Shah_2021_WACV,
