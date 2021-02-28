@@ -1,5 +1,16 @@
 # Person-Retrieval-AVSS-2018
-Implementation of our [IEEE AVSS 2018](https://dblp.org/db/conf/avss/avss2018.html) paper ["Person Retrieval in Surveillance Video using Height, Color, and Gender"](https://ieeexplore.ieee.org/document/8639145). If you find this code useful in your research, please consider citing:  
+Implementation of our [IEEE WACVw 2021](http://wacv2021.thecvf.com/) paper ["PeR-ViS: Person Retrieval in Video Surveillance using Semantic Description"](https://openaccess.thecvf.com/content/WACV2021W/HADCV/html/Shah_PeR-ViS_Person_Retrieval_in_Video_Surveillance_Using_Semantic_Description_WACVW_2021_paper.html). If you find this code useful in your research, please consider citing:  
+
+```@InProceedings{Shah_2021_WACV,
+    author    = {Shah, Parshwa and Garg, Arpit and Gajjar, Vandit},
+    title     = {PeR-ViS: Person Retrieval in Video Surveillance Using Semantic Description},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops},
+    month     = {January},
+    year      = {2021},
+    pages     = {41-50}
+}
+```  
+
 ```@inproceedings{galiyawala2018person,
   title={Person retrieval in surveillance video using height, color and gender},
   author={Galiyawala, Hiren and Shah, Kenil and Gajjar, Vandit and Raval, Mehul S},
@@ -12,15 +23,15 @@ Implementation of our [IEEE AVSS 2018](https://dblp.org/db/conf/avss/avss2018.ht
 
 This code was initially tested on an Ubuntu 16.04 system using Keras 2.0.8 with Tensorflow 1.12 backend.  
 
-![Alt Text](https://github.com/Vanditg/Person-Retrieval-AVSS-2018/blob/master/readme_files/Person_Retrieval.jpeg)  
+![Alt Text](https://github.com/Vanditg/PeR-ViS/tree/master/readme_files/PeR_ViS.jpeg)  
 
-**The paper proposes a deep learning-based linear filtering approach for person retrieval using height, cloth color, and gender.**  
+**The paper proposes a deep learning-based linear filtering approach for person retrieval using height, torso cloth color, and gender.**  
 
 ## Installation  
 
 1) Clone this repository.  
 ```
-git clone https://github.com/Vanditg/Person-Retrieval-AVSS-2018.git  
+git clone https://github.com/Vanditg/PeR-ViS.git    
 ```  
 
 2) In the repository, execute `pip install -r requirements.txt` to install all the necessary libraries.  
