@@ -1,0 +1,7 @@
+@InProceedings{Shah_2021_WACVw,
+author = {Shah, Parshwa and Garg, Arpit and Gajjar, Vandit},
+title = {PeR-ViS: Person Retrieval in Video Surveillance using Semantic Description},
+booktitle = {The IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVw)},
+month = {January},
+year = {2021}}	
+	      
