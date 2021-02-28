@@ -1,0 +1,145 @@
+
+<html>
+
+<!-- Mirrored from gkioxari.github.io/meshrcnn/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 26 Nov 2020 20:06:40 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+  <title>PeR-ViS</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body> 
+
+<div class="container">
+  <h1><span style="font-size:42px">PeR-ViS: Person Retrieval in Video Surveillance using Semantic Description</span></h1>
+  <br>
+  <table width="600px" align="center">
+    <tr>
+      <td align=center width=100px>
+        <center>
+          <span style="font-size:24px"><a href="https://parshwa1999.github.io/">Parshwa Shah</a></span>
+        </center>
+      </td>
+      <td align=center width=100px>
+        <center>
+          <span style="font-size:24px"><a href="https://arpit2412.github.io/">Arpit Garg</a></span>
+        </center>
+      </td>
+      <td align=center width=100px>
+        <center>
+        <span style="font-size:24px"><a href="https://vanditg.github.io/">Vandit Gajjar</a></span>
+        </center>
+      </td>
+  </table>
+  <br>
+  <table>
+    <tr>
+	  <span style="font-size: 18px"> School of Engineering and Applied Science, Ahmedabad University | School of Computer Science, The University of Adelaide </span>
+	</tr>
+  </table>
+  <table>
+
+    <tr>
+      <span style="font-size: 18px"> IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVw)</span>
+    </tr>
+  </table>
+  <table>
+
+    <tr>
+      <span style="font-size: 16px">The 3rd International Workshop on Human Activity Detection in multi-camera, Continuous, long-duration Video (HADCV'21), 2021 </span>
+    </tr>
+  </table>
+  <br>
+  <table width="400px" align="center">
+    <tr>
+      <td align=center width=100px>
+        <center>
+          <span style="font-size:24px"><a href="https://arxiv.org/abs/2012.02408">[Paper]</a></span>
+        </center>
+      </td>
+      <td align=center width=200px>
+        <center>
+          <span style="font-size:24px"><a href="https://github.com/parshwa1999/PeR-ViS">[Code]</a></span>
+        </center>
+      </td>
+  </table>
+  
+  <p>
+      <div class="row">
+        <div class="column">
+          <img src="video/03_5.gif" style="width:100%; padding-top:15px;">
+        </div>
+        <div class="smallcolumn">
+          <hr style="width: 1px; height: 450px; background: #c8c8c8; border: none;" />
+        </div>
+        <div class="column">
+          <!--img src="resources/ex_mul.png" style="width:100%; padding-top:15px;"-->
+          <img src="video/39_5.gif" style="width:100%; padding-top:15px;">
+        </div>
+      </div>
+  </p>
+</div>
+
+</br>
+
+<div class="container">
+  <h1>Abstract</h1>
+    <p align="justify">
+      A person is usually characterized by descriptors like age, gender, height, cloth type, pattern, color, etc. Such descriptors are known as attributes and/or soft-biometrics. They link the semantic gap between a person’s description and retrieval in video surveillance. Retrieving a specific person with the query of semantic description has an important application in video surveillance. Using computer vision to fully automate the person retrieval task has been gathering interest within the research community. However, the Current, trend mainly focuses on retrieving persons with image-based queries, which have major limitations for practical usage. Instead of using an image query, in this paper, we study the problem of person retrieval in video surveillance with a semantic description. To solve this problem, we develop a deep learning-based cascade filtering approach (PeR-ViS), which uses Mask R-CNN <a href="#ref">[1]</a> (person detection and instance segmentation) and DenseNet-161 <a href="#ref">[2]</a> (soft-biometric classification). On the standard person retrieval dataset of SoftBioSearch <a href="#ref">[3]</a>, we achieve 0.566 Average IoU and 0.792 %w IoU > 0.4, surpassing the current state-of-the-art by a large margin. We hope our simple, reproducible, and effective approach will help ease future research in the domain of person retrieval in video surveillance. The source code and pretrained weights available <a href="https://parshwa1999.github.io/PeR-ViS/">here</a>. 
+    </p> 
+</div>   
+
+</br>
+
+<div class="container">
+  <h1>Approach</h1>
+    <p><img src="images/approach.png" height="600" align="middle" /></p>
+</div>   
+
+</br>
+
+<div class="container">
+  <h1> Paper</h1>
+  <table align=center width=600px height=250px>
+  <tr>
+    <td align=left width=300px><a href=""><img class="layered-paper-big" style="height:180px" src="images/paper_preview.png"/></a></td>
+    <td align=center width=500px style="color: #4d4b59; font-size:14pt">P. Shah, A. Garg, and V. Gajjar.<br><br>
+                PeR-ViS: Person Retrieval in Video Surveillance using Semantic Description.<br><br>
+                In IEEE/CVF WACVw 2021.<br><br>
+                <span style="font-size:20px"><a href="bibtex.txt">[bibtex]</a></span>
+    </td>
+  </tr>
+  </table>
+</div>
+
+</br>
+
+<div class="container">
+  <h1>Acknowledgements</h1>
+    <p align="justify">
+      We would like to thank anonymous reviewers for providing us their valuable feedback on our paper. We would like to express our deep gratitude to Dr. Mehul S. Raval, Dr. Hiren Galiyawala and Mr. Kenil Shah for providing useful comments and discussion. We would also like to thank Ms. Ayesha Gurani, Mr. Viraj Mavani and Mr. Yash Khandhediya for their help with manuscript
+    </p>
+</div>   
+
+<div class="container">
+  <h1>References</h1>
+    <p id="ref" align="justify">
+      [1] Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick. Mask r-cnn. In Proceedings of the IEEE international conference on computer vision, pages 2961–2969, 2017.
+      </br>
+      [2] Gao Huang, Zhuang Liu, Laurens Van Der Maaten, and Kilian Q Weinberger. Densely connected convolutional networks. In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 4700–4708, 2017.
+      </br>
+      [3] Simon Denman, Michael Halstead, Clinton Fookes, and Sridha Sridharan. Searching for people using semantic soft biometric descriptions. Pattern Recognition Letters, 68:306–315, 2015.
+    </p>
+</div>
+
+</br>
+
+<div class="containersmall">
+  <p>Contact: <a href="mailto:parshwa1999@gmail.com">Parshwa Shah</a></p>
+</div>
+<footer>
+<h6 align="center">(Theme courtesy: <a href="https://gkioxari.github.io/">Georgia Gkioxari</a>)</h6>
+</footer>
+</body>
+
+</html>
