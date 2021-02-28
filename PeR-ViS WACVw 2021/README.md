@@ -23,7 +23,7 @@ Implementation of our [IEEE WACVw 2021](http://wacv2021.thecvf.com/) paper ["PeR
 
 This code was initially tested on an Ubuntu 16.04 system using Keras 2.0.8 with Tensorflow 1.12 backend.  
 
-![Alt Text](https://github.com/Vanditg/PeR-ViS/tree/master/readme_files/PeR_ViS.jpeg)  
+![Alt Text](https://github.com/Vanditg/PeR-ViS/blob/master/PeR-ViS%20WACVw%202021/readme_files/PeR_ViS.png)  
 
 **The paper proposes a deep learning-based linear filtering approach for person retrieval using height, torso cloth color, and gender.**  
 
