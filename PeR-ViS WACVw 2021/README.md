@@ -8,18 +8,43 @@ Implementation of our [IEEE WACVw 2021](http://wacv2021.thecvf.com/) paper ["PeR
     month     = {January},
     year      = {2021},
     pages     = {41-50}
-}
+```  
+ 
+```@InProceedings{Galiyawala_2018_AVSS,
+    author    = {Galiyawala, Hiren and Shah, Kenil and Gajjar, Vandit and Raval, Mehul S},
+    title     = {Person retrieval in surveillance video using height, color and gender},
+    booktitle = {Proceedings of the IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)},
+    month     = {November},
+    year      = {2018},
+    pages     = {1-6}
 ```  
 
-```@inproceedings{galiyawala2018person,
-  title={Person retrieval in surveillance video using height, color and gender},
-  author={Galiyawala, Hiren and Shah, Kenil and Gajjar, Vandit and Raval, Mehul S},
-  booktitle={2018 15th IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS)},
-  pages={1--6},
-  year={2018},
-  organization={IEEE}
-}
-```
+```@InProceedings{Galiyawala_2020_Springer,
+    author    = {Galiyawala, Hiren J and Raval, Mehul S and Laddha, Anand},
+    title     = {Person retrieval in surveillance videos using deep soft biometrics},
+    booktitle = {Proceedings of Deep Biometrics},
+    month     = {January},
+    year      = {2020},
+    pages     = {191-214}
+```  
+
+```@InProceedings{Galiyawala_2019_Elsevier,
+    author    = {Galiyawala, Hiren and Raval, Mehul S and Dave, Shivansh},
+    title     = {Visual appearance based person retrieval in unconstrained environment videos},
+    booktitle = {Proceedings of Image and Vision Computing},
+    month     = {December},
+    year      = {2019},
+    pages     = {103816}
+```  
+
+```@InProceedings{Shah_2017_NCVPRIPG,
+    author    = {Shah, Priyansh and Raval, Mehul S and Pandya, Shvetal and Chaudhary, Sanjay and Laddha, Anand and Galiyawala, Hiren},
+    title     = {Description based person identification: use of clothes color and type},
+    booktitle = {Proceedings of the National Conference on Computer Vision, Pattern Recognition, Image Processing, and Graphics},
+    month     = {April},
+    year      = {2018},
+    pages     = {457-469}
+```  
 
 This code was initially tested on an Ubuntu 16.04 system using Keras 2.0.8 with Tensorflow 1.12 backend.  
 
